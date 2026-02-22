@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.com/freewha/fty/raw/refs/heads/main/fty.jar;md5;32091ed00f3c6bab72ba657bdc1599c8",
+  "spider": "./fty.jar;md5;32091ed00f3c6bab72ba657bdc1599c8",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -130,7 +130,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-,
+
      {
       "key": "闪电资源网",
       "name": "闪电资源网",
